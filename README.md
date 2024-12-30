@@ -40,7 +40,7 @@ This implementation is based on DenseTNT (https://github.com/Tsinghua-MARS-Lab/D
 ## Citation
 
 ```
-@INPROCEEDINGS{10802492,
+@INPROCEEDINGS{li2024pretrain,
   author={Li, Yiheng and Zhao, Seth Z. and Xu, Chenfeng and Tang, Chen and Li, Chenran and Ding, Mingyu and Tomizuka, Masayoshi and Zhan, Wei},
   booktitle={2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, 
   title={Pre-training on Synthetic Driving Data for Trajectory Prediction}, 
