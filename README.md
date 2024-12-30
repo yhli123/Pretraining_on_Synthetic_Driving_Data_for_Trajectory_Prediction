@@ -40,11 +40,15 @@ This implementation is based on DenseTNT (https://github.com/Tsinghua-MARS-Lab/D
 ## Citation
 
 ```
-@inproceedings{li2023pretrainingsyntheticdrivingdata,
-  title={Pre-training on Synthetic Driving Data for Trajectory Prediction},
-  author={Yiheng Li and Seth Z. Zhao and Chenfeng Xu and Chen Tang and Chenran Li and Mingyu Ding and Masayoshi Tomizuka and Wei Zhan},
-  booktitle={2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+@INPROCEEDINGS{10802492,
+  author={Li, Yiheng and Zhao, Seth Z. and Xu, Chenfeng and Tang, Chen and Li, Chenran and Ding, Mingyu and Tomizuka, Masayoshi and Zhan, Wei},
+  booktitle={2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, 
+  title={Pre-training on Synthetic Driving Data for Trajectory Prediction}, 
   year={2024},
-  organization={IEEE}
+  volume={},
+  number={},
+  pages={5910-5917},
+  keywords={Codes;Pipelines;Predictive models;Data collection;Data models;Vectors;Trajectory;Forecasting;Intelligent robots;Synthetic data},
+  doi={10.1109/IROS58592.2024.10802492}
 }
 ```
